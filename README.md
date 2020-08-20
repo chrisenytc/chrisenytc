@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Chris! 👋
 
-<!--
-**chrisenytc/chrisenytc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisenytc)](https://github.com/chrisenytc)
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[:video_camera:: miloom](https://miloom.com) <br>
+[:honey_pot:: hiveetoolkit](https://github.com/hiveetoolkit) <br>
+...
+
+### Find me elsewhere 🌎
+
+[🚀: Site](https://chris.enytc.com) <br>
+[📸: Instagram](https://instagram.com/chrisenytc) <br>
+[🐦: Twitter](https://twitter.com/chrisenytc) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/chrisenytc) <br>
+[📫: chris AT enytc DOT com](mailto:chris@enytc.com)
