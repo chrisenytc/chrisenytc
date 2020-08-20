@@ -6,7 +6,6 @@
 
 [:video_camera:: miloom](https://miloom.com) <br>
 [:honey_pot:: hiveetoolkit](https://github.com/hiveetoolkit) <br>
-...
 
 ### Find me elsewhere 🌎
 
