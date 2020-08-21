@@ -10,7 +10,7 @@
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://chris.enytc.com) <br>
-[📸: Instagram](https://instagram.com/chrisenytc) <br>
 [🐦: Twitter](https://twitter.com/chrisenytc) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/chrisenytc) <br>
+[📸: Instagram](https://instagram.com/chrisenytc) <br>
 [📫: chris AT enytc DOT com](mailto:chris@enytc.com)
