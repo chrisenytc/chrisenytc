@@ -1,11 +1,11 @@
 ### Hey, I'm Chris! 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisenytc)](https://github.com/chrisenytc)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisenytc&count_private=true&theme=dark)](https://github.com/chrisenytc)
 
 ### What I'm working on 👨‍💻
 
-[:video_camera:: miloom](https://miloom.com) <br>
-[:honey_pot:: hiveetoolkit](https://github.com/hiveetoolkit) <br>
+[:credit_card:: cloudwalk](https://cloudwalk.io) <br>
+[:earth_americas:: lordaeron](https://github.com/lordaeronpbc) <br>
 
 ### Find me elsewhere 🌎
 
