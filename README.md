@@ -4,8 +4,8 @@
 
 ### What I'm working on 👨‍💻
 
-[:credit_card:: cloudwalk](https://cloudwalk.io) <br>
-[:earth_americas:: lordaeron](https://github.com/lordaeronpbc) <br>
+[:credit_card: cloudwalk](https://cloudwalk.io) <br>
+[:earth_americas: lordaeron](https://github.com/lordaeronpbc) <br>
 
 ### Find me elsewhere 🌎
 
