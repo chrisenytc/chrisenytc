@@ -4,13 +4,13 @@
 
 ### What I'm working on 👨‍💻
 
-[:credit_card: munchies](https://munchies.money) <br>
-[:earth_americas: enytc](https://github.com/enytc) <br>
+[:crown: enytc](https://github.com/enytc) <br>
+[:moneybag: munchies](https://munchies.money) <br>
+[:mortar_board: alphalumen](https://github.com/alphalumen) <br>
 
 ### Find me elsewhere 🌎
 
-[🚀 Blog](https://chrisenytc.dev) <br>
+[🚀 Blog](https://chrisenytc.com) <br>
 [🐦 Twitter](https://twitter.com/chrisenytc) <br>
 [💼 LinkedIn](https://www.linkedin.com/in/chrisenytc) <br>
-[📸 Instagram](https://instagram.com/chrisenytc) <br>
 [📫 chris AT enytc DOT com](mailto:chris@enytc.com)
