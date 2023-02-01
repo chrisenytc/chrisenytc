@@ -4,9 +4,9 @@
 
 ### What I'm working on 👨‍💻
 
-[:crown: enytc](https://github.com/enytc) <br>
+[:crown: enytc](https://enytc.com) <br>
 [:moneybag: munchies](https://munchies.money) <br>
-[:mortar_board: alphalumen](https://github.com/alphalumen) <br>
+[:mortar_board: alphalumen](https://alphalumen.org.br) <br>
 
 ### Find me elsewhere 🌎
 
