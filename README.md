@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Chris! :us:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisenytc&count_private=true&theme=dark)](https://github.com/chrisenytc)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chrisenytc&layout=compact&theme=github_dark)
 
 ### What I'm working on 👨‍💻
 
